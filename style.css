@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+  color: #211700; 
+  padding: 20px;
+}
+
+.headerstyle{
+	background-color:#aa9a80;
+	color:#665a4e;
+	margin-left: auto;
+    margin-right: auto;
+  padding: 10px;
+
+}
+
+#slika {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#div-container{
+  
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  
+}
+
+.sekcija-o_nama, .sekcija-galerija{
+  display: none;  
+
+}
+#slikice{
+	width: 250px;
+	height: 250px;
+}
+.footerstyle{
+	background-color:#b5a996;
+	color:#665a4e;
+	margin: 0 auto;
+  padding: 10px;
+}
+
+
+
+
+
